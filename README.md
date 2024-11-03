@@ -5,3 +5,10 @@ Built a full-stack online bookstore application that allows users to browse, sea
 ## Navbar
 <img width="1461" alt="image" src="https://github.com/user-attachments/assets/612b22a1-e6b6-4fe8-9008-35094de6f517">
 
+## Banner
+<img width="1447" alt="image" src="https://github.com/user-attachments/assets/9b599578-fcf5-498d-856a-daed5fece263">
+
+## TopSeller Section
+<img width="1461" alt="image" src="https://github.com/user-attachments/assets/d8cbb3ed-83b9-44ab-bfbd-47172b0837be">
+
+
