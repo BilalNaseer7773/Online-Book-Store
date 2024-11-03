@@ -14,5 +14,15 @@ Built a full-stack online bookstore application that allows users to browse, sea
 ## Recommeded Books
 <img width="1463" alt="image" src="https://github.com/user-attachments/assets/0322bad3-5ed8-4c8e-aa37-cf4ce6ce2561">
 
+## News
+<img width="1462" alt="image" src="https://github.com/user-attachments/assets/9a77ed67-7ff7-4aed-a70b-af7d9e70cad0">
 
+## Footer
+<img width="1469" alt="image" src="https://github.com/user-attachments/assets/67a8d36c-8f03-4277-80fb-b79702995231">
+
+## Register and Login
+<img width="394" alt="image" src="https://github.com/user-attachments/assets/2e8f1505-74d7-4e82-8f1d-cebd729f48f6">
+
+## Cart Page
+<img width="1457" alt="image" src="https://github.com/user-attachments/assets/adf860aa-4247-4dc2-887a-af755a1db09b">
 
