@@ -11,4 +11,8 @@ Built a full-stack online bookstore application that allows users to browse, sea
 ## TopSeller Section
 <img width="1461" alt="image" src="https://github.com/user-attachments/assets/d8cbb3ed-83b9-44ab-bfbd-47172b0837be">
 
+## Recommeded Books
+<img width="1463" alt="image" src="https://github.com/user-attachments/assets/0322bad3-5ed8-4c8e-aa37-cf4ce6ce2561">
+
+
 
